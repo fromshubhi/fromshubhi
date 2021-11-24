@@ -1,4 +1,4 @@
-### Hi there Hello Shubhangi here...👋
+### Hi there Shubhangi here...👋
 
 <!--
 **shubhimainalli/shubhimainalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
