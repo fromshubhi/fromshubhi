@@ -28,7 +28,7 @@
 <a href="https://twitter.com/mshubhangi12">
   <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/>
 </a>
-<a href="mailto:mail.mshubhangi3110@gmail.com">
+<a href="mailto:mshubhangi3110@gmail.com">
   <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
 </a>
  
