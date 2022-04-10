@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently  learning **DevOps**.
 - 👯 I’m looking to collaborate on **GitHub**.
-- 📫 Connect with  me on my socilas linked below 💬.
+- 📫 Connect with  me on my socials linked below 💬.
 - :standing_man:  I  enjoy Reading📖 Travelling🧳 Exploring💡.  
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I love cooking because I believe the best food is home made❤️
