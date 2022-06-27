@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently  learning **DevOps**.
+- 🌱 I’m currently  learning **Web 3**.
 - 👯 I’m looking to collaborate on **GitHub**.
 - 📫 Connect with  me on my socials linked below 💬.
 - :standing_man:  I  enjoy Reading📖 Travelling🧳 Exploring💡.  
