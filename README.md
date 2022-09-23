@@ -20,6 +20,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 
+
 ## 💬 Connect with me : 
 
 <a href="https://www.linkedin.com/in/shubhangi-m/">
@@ -33,10 +34,11 @@
 </a>
  
 
-
 <!--START_SECTION:activity-->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shubhimainalli.shubhimainalli)
 
+<a href="https://app.daily.dev/Shubhangi07"><img src="https://api.daily.dev/devcards/2f74e3199e5c4577b6b6f2085c33f9d8.png?r=mft" width="400" alt="Shubhangi Mainalli's Dev Card"/></a>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=codewithshubhi.codewithshubhi)
 
 
 <!--END_SECTION:activity-->
