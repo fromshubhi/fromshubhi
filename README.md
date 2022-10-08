@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/shubhangi-m/">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
 </a>
-<a href="https://twitter.com/mshubhangi12">
+<a href="https://twitter.com/heyShubhi">
   <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/>
 </a>
 <a href="mailto:mshubhangi3110@gmail.com">
@@ -36,7 +36,11 @@
 
 <!--START_SECTION:activity-->
 
-<a href="https://app.daily.dev/Shubhangi07"><img src="https://api.daily.dev/devcards/2f74e3199e5c4577b6b6f2085c33f9d8.png?r=mft" width="400" alt="Shubhangi Mainalli's Dev Card"/></a>
+
+[//]: <img align="center" src="https://github-readme-stats.vercel.app/api/?username=codewithshubhi&theme=dracula>
+
+<a href="https://app.daily.dev/Shubhangi07"><img src="https://api.daily.dev/devcards/2f74e3199e5c4577b6b6f2085c33f9d8.png?r=h5g" width="400" alt="Shubhangi Mainalli's Dev Card"/></a>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=codewithshubhi.codewithshubhi)
 
