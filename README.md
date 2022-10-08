@@ -37,12 +37,12 @@
 <!--START_SECTION:activity-->
 #
 
-[//]: <img align="center" src="https://github-readme-stats.vercel.app/api/?username=codewithshubhi&theme=dracula>
+[//]: <img align="center" src="https://github-readme-stats.vercel.app/api/?username=shubzhub&theme=dracula>
 
 <a href="https://app.daily.dev/Shubhangi07"><img src="https://api.daily.dev/devcards/2f74e3199e5c4577b6b6f2085c33f9d8.png?r=h5g" width="400" alt="Shubhangi Mainalli's Dev Card"/></a>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=codewithshubhi.codewithshubhi)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shubzhub.shubzhub)
 
 
 <!--END_SECTION:activity-->
