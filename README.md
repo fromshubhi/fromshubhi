@@ -21,6 +21,32 @@
 
 
 
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://dev.to/shubhicodes/are-coding-bootcamps-still-worth-it-in-2023-4019" title="Are Coding Bootcamps Still Worth It in 2023?"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ny7IjVqX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/25drrqdazohv1f4u9ib6.png" alt="Are Coding Bootcamps Still Worth It in 2023?" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//5-ways-to-find-projects-in-hacktoberfest" title="5 ways to find projects in Hacktoberfest"><strong>Are Coding Bootcamps Still Worth It in 2023?</strong></a>
+<br/> 
+<br/> 
+<br/>
+<br/> 
+<br/>
+<p align="left">
+<a href="https://dev.to/shubhicodes/the-easiest-way-to-get-started-with-tailwindcss-28d6" title="What is Tailwind CSS ? ?"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pOjkdUcm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uw5gl802vt9o5jlt6l4i.png" alt="Automate your releases on GitHub." width="250px" align="left" /></a>
+<a href="https://dev.to/shubhicodes/the-easiest-way-to-get-started-with-tailwindcss-28d6" title="What is Tailwind CSS ? ?"><strong>What is Tailwind CSS ? ?</strong></a>
+<br/> 
+<br/> 
+<br/>
+<br/> 
+<br/>
+
+<!-- HASHNODE_BLOG:END -->
+
+<div align="center">
+<p align="center"><b>FOR MORE BLOGS ⬇</b></p>
+<p><a href="https://dev.to/shubhicodes"></a></p>
+</div>
+
 ## 💬 Connect with me : 
 
 <a href="https://www.linkedin.com/in/shubhangi-m/">
