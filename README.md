@@ -44,7 +44,7 @@
 
 <div align="center">
 <p align="center"><b>FOR MORE BLOGS ⬇</b></p>
-<p><a href="https://dev.to/shubhicodes"></a></p>
+<p><a href="https://dev.to/shubhicodes"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"></a></p>
 </div>
 
 ## 💬 Connect with me : 
