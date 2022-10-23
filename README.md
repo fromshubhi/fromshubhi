@@ -21,7 +21,7 @@
 
 
 
-### My Latest Blog Posts 👇
+## 📝 My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://dev.to/shubhicodes/are-coding-bootcamps-still-worth-it-in-2023-4019" title="Are Coding Bootcamps Still Worth It in 2023?"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ny7IjVqX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/25drrqdazohv1f4u9ib6.png" alt="Are Coding Bootcamps Still Worth It in 2023?" width="250px" align="left" /></a>
