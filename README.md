@@ -44,6 +44,10 @@
 
 <div align="center">
 <p align="center"><b>FOR MORE BLOGS ⬇</b></p>
+<p><a href="https://wthshubhi.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
+</div>
+<div align="center">
+<p align="center"><b>FOR MORE BLOGS ⬇</b></p>
 <p><a href="https://dev.to/shubhicodes"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"></a></p>
 </div>
 
