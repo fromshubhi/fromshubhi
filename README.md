@@ -6,7 +6,7 @@ I love creating software that solves problems in a simple way and sharing what I
 I write sometimes, if you want to read my blogs.
  Checkout [Hashnode ](https://wthshubhi.hashnode.dev/)and [Dev.to](https://dev.to/shubhicodes).
  
-💬 Ask me about [anything](https://twitter.com/intent/tweet?url=https%3A%2F%2Fask-devs.vercel.app%2F&text=%40heyshubhi%20%3Cadd%20your%20question%20here%3E&hashtags=AskDevs)
+💬 Ask me about [anything](https://twitter.com/heyshubhi)
 ###
 <br>
 <p align="left">You can find me here! 👇🏽</p>
